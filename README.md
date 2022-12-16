@@ -14,7 +14,7 @@ manner where they can save time by loading all the currently playing movies in a
 
 Check out [FRONTEND LIVE DEMO](https://synamatic-frontend.jaymesaj434.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://replit.com/@jaymesaj434/synamatic-backend#config/settings.py) here!!
+Check out [API LIVE DEMO](https://synamatic-backend.jaymesaj434.repl.co/) here!!
 
 ## Tech used
 
