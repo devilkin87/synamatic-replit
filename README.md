@@ -12,9 +12,9 @@ manner where they can save time by loading all the currently playing movies in a
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-movie-review.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://synamatic-frontend.jaymesaj434.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://backend-movie-review.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://replit.com/@jaymesaj434/synamatic-backend#config/settings.py) here!!
 
 ## Tech used
 
